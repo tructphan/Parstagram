@@ -22,6 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://giphy.com/embed/EuF2LLDMohvFJOVOwq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://giphy.com/gifs/EuF2LLDMohvFJOVOwq/html5" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
