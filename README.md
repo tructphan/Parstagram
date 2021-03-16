@@ -48,7 +48,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://giphy.com/embed/EuF2LLDMohvFJOVOwq
 
 <img src='https://media.giphy.com/media/EuF2LLDMohvFJOVOwq/giphy-downsized.gif' width="235" height="480" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
